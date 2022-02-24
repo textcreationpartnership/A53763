@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Oxford-antiquity examined wherein is briefly shewn the notorious falshoods in the Greek manuscript, said to be translated by Humphrey Hody, B.D. of Wadham College, Oxon., which the better to recommend to the world, he entitles The unreasonableness of a separation from the bishops &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53763</idno>
+            <idno type="STC">Wing O849</idno>
+            <idno type="STC">ESTC R31774</idno>
+            <idno type="EEBO-CITATION">12256207</idno>
+            <idno type="OCLC">ocm 12256207</idno>
+            <idno type="VID">57517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57517)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Oxford-antiquity examined wherein is briefly shewn the notorious falshoods in the Greek manuscript, said to be translated by Humphrey Hody, B.D. of Wadham College, Oxon., which the better to recommend to the world, he entitles The unreasonableness of a separation from the bishops &amp;c.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An answer to "Anglicani novi schismatis redargutio," edited by Humphrey Hody.</note>
+                  <note>Imperfect: pages stained and torn, with print showthrough and loss of print.</note>
+                  <note>Reproduction of original in the St. David's University College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglicani novi schismatis redargutio.</term>
+               <term>Schism --  Eastern and Western Church.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57517:1"/>
+            <pb facs="tcp:57517:1"/>
+            <p>THE <hi>Oxford-Antiquity</hi> EXAMINED: WHEREIN Is briefly ſhewn the Notorious Fal<g ref="char:EOLhyphen"/>ſhoods in the <hi>Greek</hi> Manuſcript, ſaid to be Tranſlated by <hi>Humphry Hody,</hi> B. D. of <hi>Wadham</hi> College, <hi>Oxon.</hi> Which the better to recommend to the World, he Entitles, <hi>The <g ref="char:V">Ʋ</g>nrea<g ref="char:EOLhyphen"/>ſonableneſs of a Separation from the New Biſhops,</hi> &amp;c.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57517:2"/>
+            <pb n="3" facs="tcp:57517:2"/>
+            <head>THE <hi>Oxford-Antiquity</hi> EXAMINED.</head>
+            <p>THE Authour of the Pamphlet, entituled, <hi>The <g ref="char:V">Ʋ</g>nreaſona<g ref="char:EOLhyphen"/>bleneſs of a Separation from the New Biſhops,</hi> &amp;c. would have the World take notice what a <hi>fortuitous Hit,</hi> or ra<g ref="char:EOLhyphen"/>ther <hi>ſingular Providence</hi> it is, that the <hi>Greek Manuſcript,</hi> of which he is the lucky Tranſlator, ſhould lie ſo long unregarded <hi>in the publick Library at</hi> Oxford, (none hitherto having Brains or Sagacity enough to diſcern and diſcover the worth of it,) and <hi>at this very Juncture be taken notice of, and ſo opportunely be brought to Light</hi> by this diligent and zealous Searcher into Antiquity. Who very gravely and charitably prays, That <hi>it may have that good Effect upon thoſe diſſa<g ref="char:EOLhyphen"/>tisfied Perſons of the Church of</hi> England, <hi>which ſo many Examples and Authorities of Antiquity may give</hi> him <hi>reaſon to expect.</hi> And could it boaſt as much <hi>Truth</hi>-as <hi>Antiquity,</hi> I know not what it might doe.</p>
+            <p>But, it ſeems, <hi>there's no name prefixt before it;</hi> which I the leſs won<g ref="char:EOLhyphen"/>der at, for the Authour pleading for Injuſtice, and the Succeſſion of Uſurping Biſhops in the Sees of thoſe who he confeſſes were unjuſtly de<g ref="char:EOLhyphen"/>prived, and being an Aſſiſtant (as his Tranſlator thinks) at the Conſe<g ref="char:EOLhyphen"/>cration of the Uſurper, and therefore ſo vehemently preſſing Obedience to, and Communion with him, thought fit, perhaps, (being aſhamed of it) to conceal his Name; to which therefore, being of no great Credit and Authority, it cannot be expected that thoſe <hi>unſatisfied Perſons of the Church of</hi> England (as he calls them) ſhould pay any greater R ſpect or Veneration, merely becauſe he can write Greek, than to the Confident Pamphletier, becauſe he can tranſlate it.</p>
+            <p>But though the Authority is <hi>Anonymous,</hi> yet the Tranſlator has taken effectual Care to diſcover his own <hi>Name,</hi> (which not onely the Title Page of his Book, but the <hi>Gazette</hi> too, muſt publiſh to the World,) making a reverent Leg to the New A. B. beſpeaking the next Prefer<g ref="char:EOLhyphen"/>ment that falls in his Gift, (for though the Authour did not, like a Time-ſerver, court or write for Preferment, yet I hope his Tranſlator may,) for which he may as readily expect the <hi>Archiepiſcopal Fiat,</hi> as the pert, ſupercilious <hi>Chaplain's Imprimatur:</hi> In hopes and proſpect of which he will give his Word, or if you pleaſe his Oath, not to be guilty of a <hi>Separation from the new Biſhops.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:57517:3"/>
+But perhaps it will be ſaid, 'tis no matter for the Author's <hi>Name,</hi> pro<g ref="char:EOLhyphen"/>vided that what he ſpeaks is true, and <hi>may be made out</hi> (as the Tranſla<g ref="char:EOLhyphen"/>tor ſays it eaſily can) <hi>from approved and authentick Hiſtorians.</hi>
+            </p>
+            <p>Now that my Reader may the better judge of this, I will give him a Taſte or too of the <hi>Truth</hi> of his Book, in a few Obſervations upon ſome remarkable Paſſages in it.</p>
+            <p>And for the Authorities which I quote, that the moſt unlearned Rea<g ref="char:EOLhyphen"/>der may not be at a loſs, or puzzled, by ſending him to the Greek Hiſto<g ref="char:EOLhyphen"/>rians, as <hi>Socrates, Sozomen, Theodoret, Zonaras,</hi> &amp;c. I ſhall onely refer him to an <hi>Engliſh Hiſtorian,</hi> of good Credit and Authority, who has taken the great and worthy Pains to write the Lives of the Fathers,<note place="margin">
+                  <hi>Dr.</hi> Cave.</note> ma<g ref="char:EOLhyphen"/>king his Collections out of approved and Authentick Hiſtorians, refer<g ref="char:EOLhyphen"/>ring the curious learned Reader to the Book, Chapter, and Page, out of which, as Occaſion offers, I muſt beg leave to tranſcribe ſome re<g ref="char:EOLhyphen"/>markable Paſſages, which may not be unacceptable to the Reader who has not the Book.</p>
+            <p>And here firſt of all I cannot but obſerve what a <hi>learned Hiſtorian,</hi> and <hi>exact Chronologer,</hi> the Author of the <hi>Greek Manuſcript,</hi> or his Tranſ<g ref="char:EOLhyphen"/>latour, is, (for I cannot well tell, not having ſeen the Greek Manuſcript, to which the Abſtract (<hi>pag.</hi> 23.) is to be attributed,) who tells his Rea<g ref="char:EOLhyphen"/>der, (<hi>pag.</hi> 24.) <hi>That in the Reign of</hi> Conſtantine <hi>the Great,</hi> Maximus <hi>Bi<g ref="char:EOLhyphen"/>ſhop of</hi> Jeruſalem <hi>was depoſed by the Biſhop of</hi> Caeſarea <hi>in</hi> Paleſtine; <hi>his Succeſſor was</hi> Cyril. Now 'tis notorious that St. <hi>Cyril</hi> was not made Biſhop of <hi>Jeruſalem,</hi> till 12 or 14 Years after the Death of <hi>Conſtantine the Great,</hi> who dyed at <hi>Nicomedia,</hi>
+               <note n="a" place="margin">
+                  <hi>Vide</hi> Cave's <hi>Lives of the Fa<g ref="char:EOLhyphen"/>thers,</hi> vol. 2. p. 94.</note> 
+               <hi>Anno Chriſti</hi> 337. And St. <hi>Cyril</hi> entred upon the See of <hi>Jeruſalem</hi> (not upon the Depoſition, but the Death of <hi>Maxi<g ref="char:EOLhyphen"/>mus,</hi> as I ſhall ſhew by and by,)<note n="b" place="margin">Ib. p. <hi>343.</hi>
+               </note> 
+               <hi>Anno Chriſti</hi> 349. according to Saint <hi>Jerom; Anno</hi> 351. according to <hi>Baronius</hi>'s Computation.</p>
+            <p>And<note n="c" place="margin">Who is mention'd by Name, <hi>p. 8.</hi> which I deſire the Reader to take notice of, leſt the Tranſlator, to excuſe the Inconſiſtency in the Abſtract, ſhould pretend that 'twas another Biſhop of <hi>Caeſarea.</hi>
+               </note> 
+               <hi>Acacius,</hi> Biſhop of <hi>Caeſarea</hi> in <hi>Paleſtine,</hi> (who he ſays depoſed <hi>Maximus,</hi>) ſucceeded <hi>Euſebius</hi> (whoſe Scholar he was) in that See,<note n="e" place="margin">Cave<hi>'s Lives, Vol.</hi> 2. <hi>p.</hi> 28.</note> 
+               <hi>Anno</hi> 340. which was three years after the Death of <hi>Conſtantine the Great.</hi> So that what the Greek Author, or his Tranſlator, affirms in the <hi>Abſtract</hi> before mentioned, I know not whether I may call a <hi>Horrid Blunder,</hi> or an <hi>Impudent and notorious Lye.</hi>
+            </p>
+            <p>But let us look into the Body of the Manuſcript, and ſee what Prints and Footſteps of <hi>Truth</hi> we can find and trace out there.</p>
+            <p>And firſt of all, though he begins with an Account of St. <hi>Chryſoſtom,</hi> I ſhall rather chuſe to examine what he ſays (<hi>p.</hi> 9.) is <hi>delivered in the Life of the Great</hi> Athanaſius, who was before St. <hi>Chryſoſtom.</hi> He tells us, (<hi>p.</hi> 8.) That <hi>Athanaſius</hi> being <hi>condemned</hi> and <hi>depoſed</hi> by the <hi>Synod</hi> at <hi>Tyre,</hi> fled to <hi>Maximus</hi> at <hi>Jeruſalem,</hi> who thereupon, he ſays, called a <hi>Private Synod,</hi> and <hi>repealed what was done by the</hi> Synod <hi>of</hi> Tyre <hi>againſt</hi> Athanaſius, and <hi>reſtored him to his See;</hi> which is very falſe, as to matter
+<pb n="5" facs="tcp:57517:3"/>of Fact: For <hi>Athanaſius</hi> being condemned and depoſed by the Synod at <hi>Tyre,</hi> (where<note n="f" place="margin">Ibid. p. <hi>100.</hi>
+               </note> 
+               <hi>Maximus</hi> himſelf was prevailed with to ſubſcribe the Depoſtion, and therefore 'twas unlikely that <hi>Athanaſius</hi> would fly to him,) "finding the Malice of his Enemies inflexible, (<note n="h" place="margin">Ibid. p. <hi>89.</hi>
+               </note> to uſe the words of Dr. <hi>Cave,</hi> who takes his Account from<note n="i" place="margin">Ath. <hi>Apol.</hi> 11. <hi>p</hi> 568.</note> 
+               <hi>Athanaſius</hi> himſelf<g ref="char:punc">▪</g>) <q>upon his Retreat from <hi>Tyre,</hi> made his Addreſs at Court, where he met the Emperour on Horſe-back entring into <hi>Conſtantinople,</hi> where after ſeveral unſucceſsfull Addreſſes he took the Confidence freely to tell him,<note n="k" place="margin">
+                     <hi>p.</hi> 90.</note> That he deſired no more than that he would not ſuffer him to be ruined by Malice and Violence, that his Cauſe might' be debated in a lawful and impartial Synod, at leaſt that his Judges at <hi>Tyre</hi> might be brought Face to Face, and he have the Liberty to ex<g ref="char:EOLhyphen"/>hibit his Complaints againſt them: Which the Emperour looking upon as a piece of Common Juſtice, diſpatched away a Letter to the Synod at <hi>Jeruſalem,</hi> (whither he had<note n="l" place="margin">
+                     <hi>Ibid. p.</hi> 89. S. 9.</note> adjourned the Synod at <hi>Tyre,</hi>) commanding thoſe of them that had acted in the Council of <hi>Tyre</hi> to appear before him, and give an Account of their Proceedings therein againſt <hi>Athanaſius.</hi>
+               </q> Who upon a new<note n="m" place="margin">Ib. p. <hi>90.</hi>
+               </note> Accuſation by <hi>Euſebius,</hi> and others, (who came to <hi>Conſtantinople,</hi>) touching the <hi>Corn-Fleet,</hi> (which nearly concerned the <hi>Imperial Rights,</hi> of which the <hi>Emperour</hi> was jea<g ref="char:EOLhyphen"/>lous, as Princes uſualy are, and therefore apter to believe the Story,) was by the Emperour's Order baniſhed to <hi>Triers:</hi> From whence he re<g ref="char:EOLhyphen"/>turned after the Death of <hi>Conſtantine,</hi> by the younger <hi>Conſtantine</hi>'s<note n="n" place="margin">Ib. p. <hi>96.</hi> &amp; <hi>97.</hi>
+               </note> Or<g ref="char:EOLhyphen"/>der, and was reſtored and joyfully received at <hi>Alexandria, Anno</hi> 337. But in a little time, his Enemies making an Intereſt againſt him with<note n="p" place="margin">
+                  <hi>p.</hi> 98.</note> 
+               <hi>Conſtantius,</hi> to whoſe ſhare the Eaſtern part of the Empire fell, a Synod was held at<note n="r" place="margin">
+                  <hi>p.</hi> 100.</note> 
+               <hi>Antioch,</hi> (where <hi>Maximus,</hi> Biſhop of <hi>Jeruſalem,</hi> repented of what he had done at <hi>Tyre,</hi> refuſed to appear,) where they revived old matters againſt him, and<note n="ſ" place="margin">
+                  <hi>p.</hi> 102.</note> depoſed him, and put <hi>Gregory</hi> in his Room; upon which <hi>Athanaſius</hi> fled to<note n="t" place="margin">
+                  <hi>p.</hi> 103, 104.</note> 
+               <hi>Rome,</hi> where <hi>Julius,</hi> Bi<g ref="char:EOLhyphen"/>ſhop there, convened a Synod, ſummoning the Biſhops in the Synod at <hi>Antioch,</hi> that acted againſt <hi>Athanaſius</hi> to appear as Plaintiffs againſt him, who not appearing, the Synod abſolved him. After that a Coun<g ref="char:EOLhyphen"/>cil was held by the Imperial Order (<hi>Conſtantius</hi> conſenting to the Motion and Requeſt of his Brother <hi>Conſtans,</hi>) at<note n="u" place="margin">
+                  <hi>p.</hi> 109.</note> 
+               <hi>Sardica, Anno</hi> 347. where <hi>Athanaſius</hi> was abſolved and<note n="w" place="margin">
+                  <hi>p.</hi> 115. <hi>Sect.</hi> 8.</note> reſtored, and ſent to <hi>Alexandria</hi> with Honour by<note n="x" place="margin">
+                  <hi>p.</hi> 121, 123, 124.</note> 
+               <hi>Conſtantius.</hi> In his Journey thither he made a Viſit to<note n="y" place="margin">
+                  <hi>p.</hi> 123. <hi>Sect.</hi> 6.</note> 
+               <hi>Maximus,</hi> Biſhop of <hi>Jeruſalem,</hi> who aſſembled a Synod of Neighbour Biſhops, and they unanimouſly received him to Communion, and wrot in his Behalf to the Biſhops of <hi>Egypt.</hi> But 'tis abſurd and ridiculous to ſuppoſe what our <hi>Greek Authour</hi> affirms, that they, being onely a pri<g ref="char:EOLhyphen"/>vate Synod or Convention, would undertake or preſume to repeal what was done by the Synod of <hi>Tyre</hi> againſt <hi>Athanaſius,</hi> or judicially reſtore him to his See; which indeed was needleſs, it being already done by the Council of <hi>Sardica.</hi>
+            </p>
+            <p>And as untrue it is what he affirms (<hi>p.</hi> 8.) touching St. <hi>Cyril;</hi> who was promoted to the See of <hi>Jeruſalem,</hi> not upon the Depoſition, but the Death of <hi>Maximus,</hi> if we will believe<note n="z" place="margin">
+                  <hi>p.</hi> 342.</note> St. <hi>Jerom</hi> and <hi>Theodoret.</hi>
+               <pb n="6" facs="tcp:57517:4"/>Moreover, it is not likely that St. <hi>Cyril</hi> would ſuppſant <hi>Maximus,</hi> who was his Spiritual Father, from whom he received his<note n="*" place="margin">
+                  <hi>p.</hi> 341.</note> Ordination of Presbyter, exerciſing the Office of Catechiſt under him. And much more improbable is it that he would renounce it, in Compliance with <hi>Acacius</hi> and the Arian Party, of which our <hi>Greek Author</hi> ſays, (<hi>p.</hi> 9) <hi>St.</hi> Cyril <hi>was the chief; but afterwards becoming a Convert to the H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mo<g ref="char:EOLhyphen"/>ouſian (or Orthodox Faith) he was willingly received and allowed as Patriarch by the Church.</hi> Which charge againſt him (to uſe Dr. <hi>Cave</hi>'s Words) is certainly built upon Ignorance or Miſtake.<note place="margin">
+                  <hi>p.</hi> 342.</note>
+               <q>For, as the Doctor ſays, were there nothing elſe, 'tis enough that he is vindica<g ref="char:EOLhyphen"/>ted by the Depoſition of thoſe, who were as capable to know the true State of Things, as St. <hi>Jerom,</hi> or any of the reſt. <hi>Theodoret</hi> ſpeaking of his entring upon the See of <hi>Jeruſalem,</hi> ſays, <hi>He was a moſt ſtout and vigorous Defender of the Apoſtolick Doctrine;</hi> and the Fathers of the great Council at <hi>Conſtantinople,</hi> in their Synodical Letter to Pope <hi>Damaſus,</hi> Style him <hi>the moſt Reverend, and m ſt Religious Biſhop</hi> Cyril, and aſſure us that he had been Rightly and Canonically Ordained by the Biſhops of that Province, and had in ſeveral places ſuffered many very hard Things from the Arian Party. Than which, ſays he, what could have been ſpoken more plain and pertinent in his Juſtification? One ſuch authentick and unqueſti<g ref="char:EOLhyphen"/>onable Teſtimony, given by ſo many, and ſuch venerable Perſons, all Catholick Biſhops, who lived at the ſame time, and could not be Ignorant of his Affairs, who had then his Company with them, and his Cauſe before them, weighs more with me, ſays the Doctor, (and truly ſo it does with me too,) than an hundred Reports (like our <hi>Greek Author's</hi>) taken up at ſecond Hand, and at a Peradventure by Perſons at a diſtance, who neither accounted it their Intereſt, nor made it their Buſineſs nicely to enquire into Things, whether they were true or falſe.</q>
+            </p>
+            <p>In the next place, let us examine what our <hi>Greek Author</hi> ſays touch<g ref="char:EOLhyphen"/>ing St. <hi>Chryſoſtom,</hi> and the Anti-Biſhops, which were moſt unjuſtly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et up in his room.</p>
+            <p>St. <hi>Chryſoſtom,</hi> the Metropolitan Biſhop of the Imperial See of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> he confeſſes (<hi>p.</hi> 2.) <hi>was unjuſtly depoſed, and thruſt out of the City: And after him,</hi> he ſays, <hi>there was Conſecrated</hi> Arſacius, <hi>who,</hi> he ſays, <hi>held the Patriarchate</hi> 14 <hi>Months</hi> (<note n="‡" place="margin">Ibid. p. <hi>517.</hi>
+               </note> 16 Months and ſome odd Days, ſays <hi>Socrates</hi>) <hi>and, as cannot but be ſuppoſed, Ordained Presbyters, Biſhops, and Deacons; none of whom were rejected by the Church. After his Death,</hi> he ſays, <hi>the bleſſed</hi> Atticus <hi>was Conſecrated.</hi> Chryſoſtom <hi>be<g ref="char:EOLhyphen"/>ing yet alive and in Exile. He raiſed a Perſecution againſt thoſe that adhered to</hi> Chryſoſtom, <hi>&amp;c.</hi> And then ſumms up the Succeſſion after the depoſing St. <hi>Chryſoſtom,</hi> which he intimates was generally approved by the Church, <hi>p.</hi> 4. <hi>See now,</hi> ſays he, <hi>the Succeſſion. They that de<g ref="char:EOLhyphen"/>poſed</hi> Chryſoſtom, <hi>conſecrated</hi> Arſacius; <hi>the ſame, together with</hi> Arſa<g ref="char:EOLhyphen"/>cius,<note n="‡" place="margin">How could <hi>Ar<g ref="char:EOLhyphen"/>ſacius</hi> con<g ref="char:EOLhyphen"/>ſecrate <hi>At<g ref="char:EOLhyphen"/>ticus</hi> and <hi>Sifinnius,</hi> unleſs by the Necromantick Art, (in which perhaps our Greek Author was skill'd) he was raiſed from the dead. Which Abſurdity the Tranſlator being ſenſible of, endeavours to help it by a forced and falſe Interpretation of the Greek Words, which he recites in the Margent, <hi>(pag. 4.)</hi> whereas the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> cannot poſſibly ſignifie (as the Tranſlator would have it, and that contrary to his own Verſion in the body of his Book,) <hi>thoſe conſecrated by</hi> Arſacius, <hi>&amp;c.</hi>
+               </note> 
+               <hi>conſecrated</hi> Atticus; Arſacius <hi>and</hi> Atticus, Siſinnius; <hi>and</hi> Siſinnius Proclus, <hi>who,</hi> he ſays, <hi>were received into Communion by St.</hi> Cyril. Whereas St. <hi>Cyril</hi> was dead 12 Years before the Conſecration of
+<pb n="7" facs="tcp:57517:4" rendition="simple:additions"/>St. <hi>Chryſoſtom,</hi> who was conſecrated and inthroned at <hi>Autioch,</hi>
+               <note n="*" place="margin">Ibid. p <hi>464.</hi>
+               </note> 
+               <hi>Anno Chriſti</hi> 398. and St. <hi>Cyril</hi> dyed<note n="‡" place="margin">
+                  <hi>p.</hi> 356.</note> 
+               <hi>Anno</hi> 386. Another <hi>Blunder,</hi> or rather <hi>Falſhood,</hi> of our acurate Hiſtorian's.</p>
+            <p>But to let that paſs; that which I would obſerve is what our Author does inſinuate; <hi>viz.</hi> the peaceable and ready Compliance and Com<g ref="char:EOLhyphen"/>munion of the Church with, and acquieſcence and ſatisfaction in thoſe uſurping Biſhops, who ſucceeded the depoſed <hi>Chryſoſtom.</hi> The Truth of which I ſhall particularly examine by and by. In the mean time I muſt beg leave to remark, that though the <hi>Tranſlator</hi> in his Preface (or ſome Body elſe for him, if 'tis a third Perſon under the Characters of<g ref="char:punc">▪</g> 
+               <hi>R. B.</hi> at the End of it) does affirm, with Forehead enough, in Compliance with his <hi>Greek Author,</hi> That <hi>in the Caſes of unjuſt Depri<g ref="char:EOLhyphen"/>vation and uncanonical Succeſſion a Separation is without Example in Eccleſiaſtical Story;</hi> yet he allows of the <hi>Exception of</hi> St. Chryſoſtom<hi>'s Caſe.</hi> He might have added, and that juſtly, the Caſe of St. <hi>Athanaſius,</hi> if he had pleaſed, the Biſhops, and Clergy, and People of the Metropo<g ref="char:EOLhyphen"/>litical See of <hi>Alexandria</hi> generally ſeparating from, and refuſing Com<g ref="char:EOLhyphen"/>munion with his intruding Succeſſors; and reſolutely owning and ac<g ref="char:EOLhyphen"/>knowledging <hi>Athanaſius</hi> to be their onely lawfull Biſhop, (which yet was canonicallly though unjuſtly depoſed,) notwithſtanding the Threat<g ref="char:EOLhyphen"/>nings and furious Perſecutions which they underwent for their conſtant Adherence to him. And if he was ſtill their lawfull Biſhop, then on ſup<g ref="char:EOLhyphen"/>poſition that an orthodox Biſhop had been placed in his Chair, (the <hi>Greek Authour's Hypotheſis,</hi> and the great Argument of his Book,) it could no more have altered the Caſe, or juſtified Communion with the Uſurper, than the ſetting up an <hi>Heretical</hi> Biſhop, becauſe both the one and the other were to be conſider'd, not as <hi>orthodox</hi> or <hi>heretical,</hi> but <hi>anti-biſhops,</hi> and <hi>ſchiſmatically</hi> ſet up againſt him; but he only allows of <hi>the Exception of St.</hi> Chryſoſtom<hi>'s Caſe,</hi> and we are beholden to him for that, though indeed I do not well ſee how he could avoid it; for if he had not made the Exception himſelf, there are enough that would have been ready to have made it for him, whom he thought neceſſary to prevent, being perhaps put to the bluſh by his celebrated <hi>Greek Authour</hi>'s bold Aſſertion, whom every common Reader of Eccleſiaſtical Hiſtory could contradict and give the Lye to. But then he minces the matter, and ſhuffles it off, by telling his Reader, that the Separation was only in the <hi>Weſtern Churches,</hi> and amongſt the <hi>Rabble</hi> at <hi>Conſtantinople,</hi> who, he ſays, were ſo <hi>enraged, that they not onely forſook but ſet fire to the Church;</hi> ſo <hi>Chryſoſtom</hi>'s Adverſaries, indeed without any Scruple, reported,<note place="margin">Ibid. p. <hi>501.</hi>
+               </note> char<g ref="char:EOLhyphen"/>ging <q>it upon his Party, as the Effect of an inſatiable Revenge, while
+<pb n="8" facs="tcp:57517:5"/>ſome more calmly conſidering the unaccountable Riſe, (breaking out under the Pulpit,) the ſtrange Progreſs and Manner of the Conflagra<g ref="char:EOLhyphen"/>tion, conceived it ſent from Heaven, to puniſh the Enormities of that Time, and the unjuſt Baniſhment of ſo uſefull and excellent a Paſtor, and ſo entirely beloved by his People.</q> But he tells ye, that 'twas other<g ref="char:EOLhyphen"/>wiſe amongſt the <hi>Eaſiern Biſhops,</hi> who, he ſays, <hi>though they would not be acceſſory to that unjuſt Deprivation, however were not ſo far tranſported as to make a Schiſm in the Church.</hi> But that Weſtern <hi>Separation</hi> or <hi>re<g ref="char:EOLhyphen"/>nouncing Communion</hi> (which he repreſents by the extenuating, ſoftening Name of being <hi>onely as it were a breaking off a Correſpondence</hi>) he tells ye <hi>was contrary to the Spirit of St.</hi> Chryſoſtom; <hi>who,</hi> he ſays, <hi>when he ſaw he muſt be depoſed, adviſed and charged the Biſhops his Friends, more than once, That as they loved Chriſt, none of them ſhould leave his Church upon his account, That they muſt keep Communion with his Depoſers, and not rend and divide the Church;</hi> and <hi>enjoined ſome devout Women that atten<g ref="char:EOLhyphen"/>ded there, That as they hoped to obtain Mercy from God, they ſhould pay the ſame Service and Good-Will to his Succeſſor by a fair Election, that they had done to himſelf; for the Church could not be without a Biſhop.</hi>
+            </p>
+            <p>And here to kill two Birds with one Stone, I will at once anſwer both the <hi>Prefacer</hi> and his <hi>Author,</hi> by repreſenting Matter of Fact from un<g ref="char:EOLhyphen"/>doubted and undeniable Teſtimony.</p>
+            <p>The Deprivation of that great and good Man, St. <hi>Chryſoſtom,</hi> was grie<g ref="char:EOLhyphen"/>vouſly reſented by the generality of Chriſtians, both <hi>Clergy</hi> and <hi>Laity,</hi> who to expreſs their Abhorrence of the Proceeding againſt him, refu<g ref="char:EOLhyphen"/>ſed to own or communicate with <hi>Arſacius,</hi> his uſurping and intruding Succeſſor, declaring that <hi>Chryſoſtom</hi> was ſtill their lawfull Biſhop, and uncanonically depoſed and thruſt out of his See: For though the Pro<g ref="char:EOLhyphen"/>ceedings againſt him at <hi>Chalcedon,</hi> in the Synod at the <hi>Oak</hi> by <hi>Theophi<g ref="char:EOLhyphen"/>lus,</hi> Biſhop of <hi>Alexandria,</hi>
+               <note place="margin">
+                  <hi>Ibid.</hi> p. 482, &amp; 487.</note> and the reſt of his Gang, (though what was done was highly unjuſt,) might carry a fair and plauſible Shew and Appearance of a Depoſition, (from which he was abſolved by a Synod of Biſhops, above 60 in number, who met at <hi>Conſtantinople</hi> by the Em<g ref="char:EOLhyphen"/>perour's Order, and took the Proceedings of the former Synod under a Review, revers'd the Acts of it, and entirely reſtored <hi>Chryſoſtom</hi> to his See;) yet his Depoſition, or Deprivation after<g ref="char:EOLhyphen"/>wards by a<note n="*" place="margin">An impracticable and un<g ref="char:EOLhyphen"/>preſidented Thing, which the Eaſtern and Weſtern Churches highly blam'd and condemn'd the Emperour for who did it merely to gratifie the Importunities of Malice and Revenge.</note> Warrant from the Emperor (which might truly he called a <hi>State Deprivation,</hi> and ſo has ſome Affinity with the Caſe of our deprived Engliſh Biſhops) was altogether uncanonical, and conſequently unjuſt and unlawful. And ſo it was generally eſteemed to be; for when<note n="†" place="margin">p. 502.</note> 
+               <hi>Arſacius</hi> was clapt into the Chair a Week after <hi>Chryſoſtom</hi>'s Departurs into Baniſhment. (the See of <hi>Conſtan<g ref="char:EOLhyphen"/>tinople</hi> being made vacant, according to their Notion of Vacancy,) <hi>Chryſoſtom</hi>'s Friends and followers (which were not a few, both of the Clergy and Laity) not <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> behold an Uſurper in his Throne, <q>ſeparated from him, and rejected all Communion with him, keeping their Religious Aſſemblies in ſeveral out parts of the City; and from
+<pb n="9" facs="tcp:57517:5" rendition="simple:additions"/>their conſtant. Adherence to <hi>John</hi> their Biſhop, were by an appro<g ref="char:EOLhyphen"/>priate Title called <hi>Joannites.</hi> It vext old <hi>Arſacius,</hi> ſays the Hiſtorian,<note place="margin">Ibid.</note> to be thus ſlighted, and to find ſo conſiderable a part of the People turn their backs upon him (the Churches being in a manner empty,</q> and the Fields and private Meetings, where they paid their Devotions, and aſſembled for Religious Exerciſes, crowded with <hi>Chryſoſtom</hi>'s Friends) of which he complained to the Emperor, who preſently pub<g ref="char:EOLhyphen"/>liſhed <q>ſevere Edicts, commanding all Maſters to reſtrain their Servants from going to thoſe Conventicles, under certain Penalties,<note place="margin">Ibid.</note> which were likewiſe to be inflicted on all Citizens that were found tardy herein; <hi>i. e.</hi> that did frequent thoſe Conventicles, and refuſe Communion with <hi>Arſacius.</hi>
+               </q> And that my Reader may not think that 'twas only the <hi>Lasty,</hi> or the <hi>Rabble</hi> at <hi>Conſtantinople</hi> (to uſe the Words of the Prefacer) that ſeparated from, and refuſed Communion with this New Biſhop of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople;</hi> I will recte an impartial Edict (procured no doubt by <hi>Ar<g ref="char:EOLhyphen"/>ſacius</hi> and his Party) which was ordered to be tranſmitted to the Go<g ref="char:EOLhyphen"/>vernours <q>of Provinces to ſuppreſs thoſe unlawful Conventicles, (as they called them) viz. <hi>Whoſoever does not communicate with</hi> Theo<g ref="char:EOLhyphen"/>philus,<note place="margin">Ibid. p. <hi>503.</hi>
+                  </note> Arſacius, <hi>and</hi> Porphyrius, <hi>let him be depoſed from his Biſhoprick; and withall let him forfeit whatever Eſtate he has either in Money or Land.</hi> Which, ſays the Hiſtorian, being particularly reſtrained to Biſhops, was ſoon after followed with another of a more general Ex<g ref="char:EOLhyphen"/>tent: viz. <hi>Whoſoever ſhall conceal a Biſhop or a Clergy man, or ſo much as entertain in his Houſe any one that communicates with</hi> Chryſoſtom, <hi>let his Houſe be forfeited, and expoſed to ſale.</hi> Which Laws, ſays the Hiſtorian, wanted a quick and ſharp Execution: Of which he gives many lamentable Inſtances.</q> Notwithſtanding which ſeverity the Biſhops and Clergy, and amongſt the reſt <hi>Innocent</hi> Biſhop of <hi>Rome,</hi>
+               <note place="margin">
+                  <hi>Ibid <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 506, 507.</note> and moſt of the <hi>Weſtern</hi> Biſhops, as well as the People, held Communion with <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom,</hi> and proteſted againſt <hi>Arſacius,</hi> and all Communion with him.</p>
+            <p>Nor did the Separation end with <hi>Arſacius,</hi>
+               <note place="margin">Ibid. p. <hi>517.</hi>
+               </note> who dyed <hi>Anno</hi> 405 but continued as high and violent againſt his Succeſſor <hi>Atticus<g ref="char:punc">▪</g>
+               </hi> a proteſt Ene<g ref="char:EOLhyphen"/>my <q>to <hi>Chryſoſtom,</hi> having been one of his prime Accuſers in the Synod at the <hi>Oak</hi> yea, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as <hi>Paladius</hi> ſtyles him, the Man that had contrived and layd the Plot and Deſign againſt him. Which perhaps, ſays the Hiſtorian, was one of the beſt Qualifications that recommended him to his place; Which, ſays he, he was no ſooner poſſeſſed of,<note place="margin">Ibid.</note> but he endeavoured to reduce the <hi>Joannites</hi> to a Com<g ref="char:EOLunhyphen"/>pliance with him. But finding that not only the Biſhops, but the People generally ſtood at a diſtance from him, he fled to the uſual Refuge in ſuch Caſes, the Secular Arm, and knowing that if the Bi<g ref="char:EOLhyphen"/>ſhops were once brought in the People would follow of courſe, he firſt pronounced the following Edict: <hi>If any Biſhop do not communicate with</hi> Theophilus, Porphyry, <hi>and</hi> Atticus,<note place="margin">Ibid p. <hi>518.</hi>
+                  </note> 
+                  <hi>let him be depoſed from his See, and deprived of all his Eſtate.</hi> And to ſtrike a Terror in all ſorts of Perſons, ſays the ſame Author, and that the Laity might not think themſelves exempted, another Edict was publiſhed, commanding that Perſons of Place and Dignity, ſhould forfeit their Honours and Offices, Commanders and Souldiers be caſhiered, Trades-men and common
+<pb n="10" facs="tcp:57517:6" rendition="simple:additions"/>People fined in conſiderable Summs, and baniſhed. To prevent the ſeverity of theſe Laws,<note place="margin">Ibid.</note> ſome that were Rich complied to ſave their Eſtates, others that were Poor, or that ſaw not far into the ſtate of Things, were by large Promiſes drawn into Communion with him. But the far greateſt part ſtood off, and preferred the Goodneſs of their Cauſe before Riches or Honour, Kindred or Country, and choſe ra<g ref="char:EOLhyphen"/>ther to fly to the Mountains, or to hide themſelves in the remoteſt Mo<g ref="char:EOLhyphen"/>naſteries, or to betake themſelves into Foreign Parts; and thoſe that did ſtay were forced to aſſemble in the Fields, and to offer up their De<g ref="char:EOLhyphen"/>votions under the open Canopy of Heaven.</q> Nor was it only the <hi>Weſtern</hi> Biſhops, (as the <hi>Prefacer</hi> falſlely affirms,) but the <hi>Eaſtern</hi> Bi<g ref="char:EOLhyphen"/>ſhops too generally refuſed Communion with the uſurping Biſhops at <hi>Conſtantinople,</hi> and held Communion with <hi>Chryſoſtom,</hi> whom they eſteemed the only lawful Biſhop of that <hi>See.</hi>
+            </p>
+            <p>And for this I will likewiſe refer my Reader to the aforeſaid <hi>Hiſtorian,</hi> who takes this Account from <hi>Palladius,</hi> c. 18. p. 194.</p>
+            <p>
+               <q>Nor, ſays he, was it thus at <hi>Conſtantinople,</hi> but almoſt in all other places of the <hi>Eaſt,</hi>
+                  <note place="margin">Ib. p. <hi>518.</hi>
+                  </note> where ſeveral Biſhops were baniſhed into the moſt barbarous Countries, and kept in common Gaols; of whom he gives a large Catalogue, with an Account of their barbarous Uſage, in that and the following pages, which I deſire my Reader to peruſe at his leiſure.</q>
+            </p>
+            <p>But this Separation, ſays the <hi>Prefacer,</hi> was contrary to the Spirit of St. <hi>Chryſoſtom,</hi> which he infers from his Advice to the Biſhops, his Friends, <hi>That none of them ſhould leave his Church upon his Account, but they muſt keep Communion with his Depoſers,</hi> and his charge to the de<g ref="char:EOLhyphen"/>vout Women, <hi>That they ſhould pay the ſame Service and good will to his Succeſſor, that they had done to himſelf.</hi>
+            </p>
+            <p>'Tis true that good Man did thus adviſe his Friends, and that out of a tender<g ref="char:punc">▪</g> regard to them, ſeeing a fierce and dreadful ſtorm of Perſecu<g ref="char:EOLhyphen"/>tion ariſing, which he was loth they ſhould for his ſake be expoſed to. Thus our <hi>bleſſed Saviour</hi> paſſionately adviſed and charged the devout Women that followed him, <hi>Daughters of Jeruſalem, weep not for me</hi>— But he did not ſlight or diſregard their Tears, but put them into his Bottle, accepting and rewarding them as grateful Sacrifice, a <hi>Sweet-ſmelling Savour.</hi> And though St. <hi>Chryſoſtom</hi> beforehand adviſed againſt, yet he did not afterwards diſlike, or quarrel with thoſe Sufferings, which his Friends underwent for his ſake, nor chide or reprehend them for their Separation from, or renouncing Communion with his uſurping Succeſſors and their Brethren, (whom Dr. <hi>Cave,</hi> or his Author, Styles the <hi>Schiſmatical</hi> Biſhops at <hi>Conſtantinople,</hi> preſuming that they are the <hi>Schiſmaticks</hi> which make the <hi>Schiſm,</hi>
+               <note place="margin">Ib. p. <hi>515.</hi>
+               </note> and therein acquitting the <hi>Joan<g ref="char:EOLhyphen"/>nite</hi> Separatiſts from that Charge,) which was the Cauſe, the Source and Spring of all their Troubles and Afflictions.</p>
+            <p>And for this I will refer my Reader to the aforeſaid Hiſtorian, who giving an Account of Letters which St. <hi>Chryſoſtom</hi> wrote to his Friends in his Baniſhment, ſays, <q>But above all others he thought it neceſſary for him to write to the Biſhops and Clergy, that for his ſake were in Priſon at <hi>Chalcedon,</hi> whom he commends for their undaunted Beha<g ref="char:EOLhyphen"/>viour under Suff rings, beſeeching them ſtill to maintain a Greatneſs and Preſence of Mind ſuitable to the Miſeries they endured; and in the
+<pb n="11" facs="tcp:57517:6" rendition="simple:additions"/>midſt of all to concern themſelves for the Good of the Church, aſſuring them that though their Care and Study herein might want ſucceſs, it ſhould not want its Reward at the hands of God. To the ſame Effect ſays he, he wrote a more general Epiſtle to all the Biſhops,<note place="margin">Ibid.</note> Presbyters and Deacons that were impriſoned upon this Account, that their Suf<g ref="char:EOLhyphen"/>ferings had made them renown'd and eminent thro' the whole World; which ſhould not be in vain, that if their Sufferings were ſo great, what would be their Reward? That they ſhould rejoice and be glad, and quit themſelves like Men, and remember how many their exemplary Courage and Conſtancy had arm'd with Patience, how many that were wavering it had confirm'd, and reviv'd their drooping Spirits,<note place="margin">Ib. p. <hi>516</hi>
+                  </note> the importance of it reaching beyond thoſe who had the happineſs to behold it; and that they ſhould ſuſtain them by a continual Reflexion upon that Apoſtolical Truth, <hi>That the Sufferings of this preſent time, are not worthy to be com<g ref="char:EOLhyphen"/>pared with the Glory which ſhall be revealed in us.</hi>
+               </q>
+            </p>
+            <p>Thus wrote St. <hi>Chryſoſtom</hi> to the ſuffering Biſhops and Clergy, who refuſed to comply with the Imperial Edicts about Communion with <hi>Arſacius, Atticus,</hi> &amp;c.</p>
+            <p>Which is a demonſtration that their Separation (which was the cauſe of all their Sufferings) was not ſo contrary to the Spirit of St. <hi>Chryſoſtom.</hi> If it had, inſtead of applauding and commending their Courage and <hi>un<g ref="char:EOLhyphen"/>daunted Behaviour under Sufferings,</hi> which he tells them <hi>had made them renowned and eminent through the World, which ſhould not be in vain, be<g ref="char:EOLhyphen"/>ſeeching them ſtill to maintain a Greatneſs and Preſence of Mind, ſuitable to the Miſeries they endured;</hi> inſtead of this, I ſay, he would have bla<g ref="char:EOLhyphen"/>med and reproved them, as obſtinate, wilfull Fools, that were fond of Trouble, and did needleſsly run themſelves into the Fire, as <hi>Evil Doers,</hi> and therefore inglorious Sufferers, perverſe, ſtubborn, <hi>unſatisfied Per<g ref="char:EOLhyphen"/>ſons,</hi> and <hi>Schiſmatical</hi> Violaters of the Peace of the Church: So that though St. <hi>Chryſoſtom</hi> before his Baniſhment might adviſe his Friends againſt Sufferings for his ſake, and a Separation from, and refuſing Communion with his uſurping Succeſſors, as not prudential; yet 'tis plain, that he did not think or condemn it as ſinful.</p>
+            <p>But before I diſmiſs what the Authour of the <hi>Greek Manuſcript</hi> ſays about St. <hi>Chryſoſtom,</hi> and his uſurping Succeſſors, I muſt beg leave to obſerve what a <hi>notorious Falſhood</hi> he is guilty of in affirming (p. 4.) <hi>That</hi> Severianus, <hi>Biſhop of</hi> Gabala, <hi>and</hi> Acacius, <hi>Biſhop of</hi> Berrhea, (<hi>or rather</hi> Beroea,) <hi>who were the chief Authors of all the calamities that befell</hi> Chry<g ref="char:EOLhyphen"/>ſoſtom, <hi>being afterwards call'd in queſtion by Pope</hi> Innocent, <hi>were neither depoſed nor reprehended by him; the Pope leaving their Puniſhment to God.</hi>
+            </p>
+            <p>For Anſwer to this I muſt refer my Reader to the aforeſaid Hiſtorian, (for I reſolve to write or deliver nothing in this weighty and important Caſe without good Authority,) who tells us, <hi>p.</hi> 531. <q>That Pope <hi>Inno<g ref="char:EOLhyphen"/>cent</hi> giving over all hopes of doing good by fair Means, reſolved to pro<g ref="char:EOLhyphen"/>ceed to Cenſures, and to ſeparate both the Emperour and his Lady from all Chriſtian Communion, which he did by a Letter to <hi>Arcadius,</hi>
+                  <note place="margin">Ib. p. <hi>432.</hi>
+                  </note> wherein amongſt other things he tells him, That he had abrogated <hi>Ar<g ref="char:EOLhyphen"/>ſacius</hi> his Authority,</q> though dead and gone, (and if ſo, then the Ordi<g ref="char:EOLhyphen"/>nations of thoſe Presbyters, Biſhops, and Deacons, who were ordained
+<pb n="12" facs="tcp:57517:7"/>by him, notwithſtanding what <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Greek Authour</hi> ſays, p. 2.) <q>whoſe Name he forbad to be entred into the holy Diptychs, together with all the Biſhops that had communicated with him, of which number were <hi>Sererian</hi> and <hi>Acacius.</hi> And for <hi>Theophilus,</hi> b ſides his Depoſition, he ad<g ref="char:EOLhyphen"/>ded his Excommunication, and utter Alienation from the Chriſtian Religion.</q>
+            </p>
+            <p>Now let the Reader obſerve, That <hi>Severianus</hi> and <hi>Acacius</hi> ſtood up<g ref="char:EOLhyphen"/>on the ſame Foot with <hi>Theophilus,</hi> who were jointly St. <hi>Chryſoſtom</hi>'s Proſecutors and Judges, whom <hi>Arcadius</hi> in his Anſwer to Pope <hi>Innocent</hi>'s Letter, calls <hi>thoſe wretched Biſhops,</hi> at whoſe door, he ſays, the Guilt <q>muſt lie,<note place="margin">Ibid.</note> who under pretence of Eccleſiaſtical Canons had done it, and taken the blame upon their own Heads, whoſe unjuſt Suggeſtions, he confeſſes he had aſſented to.</q> Wherein eſpecially he refers to <hi>Aca<g ref="char:EOLhyphen"/>cius,</hi> who was one of thoſe that adviſed him to depoſe and baniſh <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom,</hi>
+               <note place="margin">Ib. p. <hi>495.</hi>
+               </note> telling him that it ſhould <hi>lie at their door,</hi> and that they were <hi>ready to anſwer it with the peril of their Heads.</hi>
+               <note place="margin">Ibid.</note>
+            </p>
+            <p>Now that <hi>Severian</hi> and <hi>Acacius</hi> being guilty of the ſame Crimes were under the ſame Cenſure with <hi>Theophilus,</hi> may be ſtrongly preſumed from a Paſſage in <hi>Arcadius</hi>'s Anſwer to Pope <hi>Innocent</hi>'s Letter, <hi>viz.</hi> 
+               <q>That for <hi>Acacius, Severian, Theophilus,</hi> and the reſt, they ſhould be brought to Account.</q>— Which is a plain In<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ation, that Pope <hi>Innocent</hi> had ſignified to the Emperour in his Letters, that he had pro<g ref="char:EOLhyphen"/>nounced Cenſures upon them, and deſired him to take care that they might not be <hi>Bruta Fulmina,</hi> but executed <hi>cum effectu</hi> upon them; which <hi>Arcadius</hi> ſeems to promiſe, telling him, <hi>they ſhould be brought to account.</hi>
+            </p>
+            <p>And thus I think it is ſufficiently evident what a <hi>faithfull,</hi> or rather <hi>falſe</hi> Hiſtorian, and diſingenuous Prevaricator, the Author of the <hi>Greek Manuſcript</hi> is; and how ignorantly or maliciouſly the <hi>Tranſlator</hi> of it has attempted to impoſe upon the World, by recommending it as a <hi>moſt excellent, worthy Piece,</hi> which would not fail either to ſilence or ſatisfie <hi>thoſe unſatisfied Perſons of the Church of</hi> England, as he calls them.</p>
+            <p>What has been already ſaid may be enough to ſatisfie the Reader touching the <hi>Worth</hi> and the <hi>Truth</hi> too of this <hi>Excellent Piece,</hi> from whence he may take his Meaſures how to judge of the reſt. And per<g ref="char:EOLhyphen"/>haps it will not be worth while<g ref="char:punc">▪</g> being equally unprofitable and offen<g ref="char:EOLhyphen"/>ſive, to rake any farther in this <hi>Kennel,</hi> or dig any longer in this noiſome <hi>Dunghill,</hi> (which the brisker, quick-ſighted Academicks at <hi>Oxford</hi> thought not fit heretofore to ſtir too much, leſt it ſhould ſtink,) be<g ref="char:EOLhyphen"/>ing not able to promiſe our ſelves what <hi>Virgil</hi> did <hi>de Stercore Ennis.</hi>
+            </p>
+            <p>And I cannot but admire, that ſo learned and ingenious a Man as Dr. <hi>Royſe</hi> is vogued to be, ſhould ſuffer ſuch a futilous, noiſome Piece, ſuch a Farce of Lies and notorious Falſhoods, to paſs under his <hi>Impri<g ref="char:EOLhyphen"/>matur.</hi>
+            </p>
+            <p>But I forget that he is a <hi>young Licenſer,</hi> and perhaps ſo good natur'd to his Friend, like the celebrated Mr. <hi>Fraſier,</hi> as, Right or Wrong, it it be but <hi>well deſigned,</hi> to licenſe without Reading, as the <hi>Bankers</hi> in <hi>Lombard-ſtreet</hi> take Money by Content upon the Credit of their Cor<g ref="char:EOLhyphen"/>reſpondents.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57517:7"/>
+            <pb facs="tcp:57517:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
